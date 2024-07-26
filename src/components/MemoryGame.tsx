@@ -7,7 +7,8 @@ const useStyles = makeStyles({
   container: {
     border: '2px solid #f7f7f7',
     borderRadius: '6px',
-    height: '97dvh',
+    height: 'auto',
+    minHeight: '97dvh',
     padding: '16px',
   },
   card: {

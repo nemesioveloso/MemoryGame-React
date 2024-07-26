@@ -1,6 +1,7 @@
 .container{
     background-color: #1d1d1d;
-    height: 100dvh;
+    height: auto;
+    min-height: 100dvh;
 }
 
 *{
